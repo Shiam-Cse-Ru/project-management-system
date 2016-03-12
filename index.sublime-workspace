@@ -1,0 +1,548 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pirnt",
+				"print_r"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"simple",
+				"simplexml_load_file"
+			],
+			[
+				"ac",
+				"action"
+			],
+			[
+				"con",
+				"controller"
+			],
+			[
+				"stri",
+				"string"
+			],
+			[
+				"__",
+				"__AddObjct"
+			],
+			[
+				"__Add",
+				"__AddDigits"
+			],
+			[
+				"pl",
+				"player_dex_decorate"
+			],
+			[
+				"arr",
+				"array"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"th",
+				"this"
+			],
+			[
+				"stat",
+				"static"
+			],
+			[
+				"p",
+				"php	<?php … ?>"
+			],
+			[
+				"str",
+				"strfilename"
+			],
+			[
+				"check",
+				"check_data"
+			],
+			[
+				"pri",
+				"private"
+			],
+			[
+				"h",
+				"handle"
+			],
+			[
+				"funct",
+				"function_exists"
+			],
+			[
+				"_",
+				"__CLASS__"
+			],
+			[
+				"new",
+				"newmethod"
+			],
+			[
+				"pro",
+				"prop1"
+			],
+			[
+				"func",
+				"function"
+			],
+			[
+				"getpro",
+				"getproperty"
+			],
+			[
+				"prop",
+				"porp1"
+			],
+			[
+				"obj",
+				"obj2"
+			],
+			[
+				"getpr",
+				"getproperty"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"incl",
+				"incl1	include_once …"
+			],
+			[
+				"mysqlerr",
+				"mysql_error"
+			],
+			[
+				"image",
+				"imagename"
+			],
+			[
+				"tmp",
+				"temp_name"
+			],
+			[
+				"mysqler",
+				"mysql_error"
+			],
+			[
+				"in",
+				"input"
+			],
+			[
+				"ce",
+				"cellspacing	Attr"
+			],
+			[
+				"strto",
+				"strtoupper"
+			],
+			[
+				"a",
+				"arr"
+			],
+			[
+				"hit",
+				"hitpoints"
+			],
+			[
+				"clean",
+				"clean_str"
+			],
+			[
+				"cu",
+				"cuzword"
+			],
+			[
+				"page",
+				"page_number"
+			],
+			[
+				"isnu",
+				"is_numeric"
+			],
+			[
+				"filter",
+				"filter_var"
+			],
+			[
+				"db",
+				"db_password"
+			],
+			[
+				"dbn",
+				"db_name"
+			],
+			[
+				"me",
+				"message"
+			],
+			[
+				"pad",
+				"padding-bottom"
+			],
+			[
+				"xml",
+				"xmlbody"
+			],
+			[
+				"dir",
+				"dirhandle"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/xampp/htdocs/Object Oriented PHP/MVC pattern/mvc.php",
+		"/C/xampp/htdocs/login/login.php",
+		"/C/xampp/htdocs/login/index.php",
+		"/C/xampp/htdocs/Object Oriented PHP/xml/index.php",
+		"/C/xampp/htdocs/Object Oriented PHP/xml/test.xml",
+		"/C/xampp/htdocs/login/welcome.php",
+		"/C/xampp/htdocs/login/admin_login.php",
+		"/C/xampp/htdocs/login/registration.php",
+		"/C/Users/SHIAM/Desktop/Simple_Guestbook/viewguestbook.php",
+		"/C/Users/SHIAM/Desktop/Simple_Guestbook/index.php",
+		"/C/xampp/htdocs/Simple_Guestbook/index.php",
+		"/C/xampp/htdocs/login/admin/admin_login.php",
+		"/C/xampp/htdocs/login/delete.php",
+		"/C/xampp/htdocs/login/database/db_conection.php",
+		"/C/Users/SHIAM/Desktop/loginregister-master/login.php",
+		"/C/xampp/htdocs/login/logout.php",
+		"/C/Users/SHIAM/Desktop/loginregister-master/includes/config.php",
+		"/C/xampp/htdocs/login-signup-in-php/db.sql",
+		"/C/Users/SHIAM/Desktop/loginregister-master/db.sql",
+		"/C/xampp/htdocs/(complete)login-signup-with-forget-password-in-php/index.php",
+		"/C/xampp/htdocs/(complete)login-signup-with-forget-password-in-php/db.sql",
+		"/C/xampp/htdocs/(complete)login-signup-with-forget-password-in-php/db.php",
+		"/G/My Project/Project From PHP Gang.com Website/login-signup-in-php/db.sql",
+		"/C/xampp/htdocs/login-signup-in-php/db.php",
+		"/C/xampp/htdocs/ABS2/index.php",
+		"/C/Users/SHIAM/Desktop/Login-Signup-Email-Verification-Forgot-Password-Script/tbl_users.sql",
+		"/C/Users/SHIAM/Desktop/kccreg/kccregdb.sql",
+		"/C/Users/SHIAM/Desktop/kccreg/instructorSubjects.php",
+		"/C/Users/SHIAM/Desktop/inventory/liveedit.sql",
+		"/C/xampp/htdocs/studentTrans/studenttransdb.sql",
+		"/C/xampp/htdocs/codetitle.com/church/church/church/reservation.sql",
+		"/C/xampp/htdocs/Project Management System PHP Application/Project Management System/signup_temp.html",
+		"/C/xampp/htdocs/Project Management System PHP Application/Project Management System/index.php",
+		"/C/xampp/htdocs/Project Management System PHP Application/Project Management System/login.php",
+		"/C/xampp/htdocs/Complain-Management-System/database/complain_db.sql",
+		"/C/xampp/htdocs/Project Management System PHP Application/Project Management System/projects.sql",
+		"/C/xampp/htdocs/Project Management System PHP Application/Project Management System/newuser.php",
+		"/C/Users/SHIAM/Desktop/columbans/columbandb.sql",
+		"/C/Users/SHIAM/Desktop/style.css",
+		"/C/xampp/htdocs/online_shop/database nga bag o/db_project.sql",
+		"/C/xampp/htdocs/SocialNetworkingProject - Copy/Database Backup/socialnetworking.sql",
+		"/C/xampp/htdocs/SocialNetworkingProject - Copy/index.php",
+		"/C/xampp/htdocs/online dictionary/index.php",
+		"/C/xampp/htdocs/Object Oriented PHP/static class/talk.class.php",
+		"/C/xampp/htdocs/Object Oriented PHP/static class/1.php",
+		"/C/xampp/htdocs/PHP Online Booing System [www.students3k.com]/hrs.sql",
+		"/C/xampp/htdocs/PHP Online Booing System [www.students3k.com]/auth.php",
+		"/C/xampp/htdocs/PHP Online Booing System [www.students3k.com]/index.php",
+		"/C/xampp/htdocs/SocialNetworkingProject[Students3k.com]/SocialNetworkingProject -[www.students3k.com]/Database Backup/socialnetworking.sql",
+		"/C/xampp/htdocs/SocialNetworkingProject[Students3k.com]/SocialNetworkingProject -[www.students3k.com]/lostpass_reset.php",
+		"/C/xampp/htdocs/SocialNetworkingProject[Students3k.com]/SocialNetworkingProject -[www.students3k.com]/user_report_sent.php",
+		"/C/xampp/htdocs/SocialNetworkingProject[Students3k.com]/SocialNetworkingProject -[www.students3k.com]/user_report.php",
+		"/C/xampp/htdocs/SocialNetworkingProject[Students3k.com]/SocialNetworkingProject -[www.students3k.com]/user_messages_view.php",
+		"/C/xampp/htdocs/SocialNetworkingProject[Students3k.com]/SocialNetworkingProject -[www.students3k.com]/user_messages_settings.php",
+		"/C/xampp/htdocs/SocialNetworkingProject[Students3k.com]/SocialNetworkingProject -[www.students3k.com]/user_messages_outbox.php",
+		"/C/xampp/htdocs/SocialNetworkingProject[Students3k.com]/SocialNetworkingProject -[www.students3k.com]/user_messages_new.php",
+		"/C/xampp/htdocs/SocialNetworkingProject[Students3k.com]/SocialNetworkingProject -[www.students3k.com]/user_messages.php",
+		"/C/xampp/htdocs/SocialNetworkingProject[Students3k.com]/SocialNetworkingProject -[www.students3k.com]/user_logout.php",
+		"/C/xampp/htdocs/SocialNetworkingProject[Students3k.com]/SocialNetworkingProject -[www.students3k.com]/user_home.php",
+		"/C/xampp/htdocs/SocialNetworkingProject[Students3k.com]/SocialNetworkingProject -[www.students3k.com]/user_friends_settings.php",
+		"/C/xampp/htdocs/SocialNetworkingProject[Students3k.com]/SocialNetworkingProject -[www.students3k.com]/user_friends_requests_outgoing.php",
+		"/C/xampp/htdocs/SocialNetworkingProject[Students3k.com]/SocialNetworkingProject -[www.students3k.com]/user_friends_requests.php",
+		"/C/xampp/htdocs/SocialNetworkingProject[Students3k.com]/SocialNetworkingProject -[www.students3k.com]/user_friends_confirm.php",
+		"/C/xampp/htdocs/SocialNetworkingProject[Students3k.com]/SocialNetworkingProject -[www.students3k.com]/user_friends_block.php",
+		"/C/xampp/htdocs/SocialNetworkingProject[Students3k.com]/SocialNetworkingProject -[www.students3k.com]/user_friends_add.php",
+		"/C/xampp/htdocs/SocialNetworkingProject[Students3k.com]/SocialNetworkingProject -[www.students3k.com]/user_friends.php",
+		"/C/xampp/htdocs/SocialNetworkingProject[Students3k.com]/SocialNetworkingProject -[www.students3k.com]/user_editprofile_status.php",
+		"/C/xampp/htdocs/SocialNetworkingProject[Students3k.com]/SocialNetworkingProject -[www.students3k.com]/user_editprofile_settings.php",
+		"/C/xampp/htdocs/SocialNetworkingProject[Students3k.com]/SocialNetworkingProject -[www.students3k.com]/user_editprofile_photo.php",
+		"/C/xampp/htdocs/SocialNetworkingProject[Students3k.com]/SocialNetworkingProject -[www.students3k.com]/user_editprofile_comments.php",
+		"/C/xampp/htdocs/SocialNetworkingProject[Students3k.com]/SocialNetworkingProject -[www.students3k.com]/user_editprofile.php",
+		"/C/xampp/htdocs/SocialNetworkingProject[Students3k.com]/SocialNetworkingProject -[www.students3k.com]/user_blog_settings.php",
+		"/C/xampp/htdocs/SocialNetworkingProject[Students3k.com]/SocialNetworkingProject -[www.students3k.com]/user_blog_preview.php",
+		"/C/xampp/htdocs/SocialNetworkingProject[Students3k.com]/SocialNetworkingProject -[www.students3k.com]/user_blog_newentry.php",
+		"/C/xampp/htdocs/SocialNetworkingProject[Students3k.com]/SocialNetworkingProject -[www.students3k.com]/user_blog_link.php",
+		"/C/xampp/htdocs/SocialNetworkingProject[Students3k.com]/SocialNetworkingProject -[www.students3k.com]/user_blog_image.php",
+		"/C/xampp/htdocs/SocialNetworkingProject[Students3k.com]/SocialNetworkingProject -[www.students3k.com]/user_blog_flash.php",
+		"/C/xampp/htdocs/SocialNetworkingProject[Students3k.com]/SocialNetworkingProject -[www.students3k.com]/user_blog_editentry.php",
+		"/C/xampp/htdocs/SocialNetworkingProject[Students3k.com]/SocialNetworkingProject -[www.students3k.com]/user_blog_comments.php",
+		"/C/xampp/htdocs/SocialNetworkingProject[Students3k.com]/SocialNetworkingProject -[www.students3k.com]/user_blog_deleteentry.php",
+		"/C/xampp/htdocs/SocialNetworkingProject[Students3k.com]/SocialNetworkingProject -[www.students3k.com]/user_blog.php",
+		"/C/xampp/htdocs/SocialNetworkingProject[Students3k.com]/SocialNetworkingProject -[www.students3k.com]/user_album_upload.php",
+		"/C/xampp/htdocs/SocialNetworkingProject[Students3k.com]/SocialNetworkingProject -[www.students3k.com]/user_album_update.php",
+		"/C/xampp/htdocs/SocialNetworkingProject[Students3k.com]/SocialNetworkingProject -[www.students3k.com]/user_album_settings.php",
+		"/C/xampp/htdocs/SocialNetworkingProject[Students3k.com]/SocialNetworkingProject -[www.students3k.com]/user_album_friends.php",
+		"/C/xampp/htdocs/SocialNetworkingProject[Students3k.com]/SocialNetworkingProject -[www.students3k.com]/user_album_edit.php",
+		"/C/xampp/htdocs/SocialNetworkingProject[Students3k.com]/SocialNetworkingProject -[www.students3k.com]/user_album_delete.php",
+		"/C/xampp/htdocs/SocialNetworkingProject[Students3k.com]/SocialNetworkingProject -[www.students3k.com]/user_album_comments.php",
+		"/C/xampp/htdocs/SocialNetworkingProject[Students3k.com]/SocialNetworkingProject -[www.students3k.com]/user_album_add.php",
+		"/C/xampp/htdocs/SocialNetworkingProject[Students3k.com]/SocialNetworkingProject -[www.students3k.com]/user_album.php",
+		"/C/xampp/htdocs/SocialNetworkingProject[Students3k.com]/SocialNetworkingProject -[www.students3k.com]/user_account_pass.php",
+		"/C/xampp/htdocs/SocialNetworkingProject[Students3k.com]/SocialNetworkingProject -[www.students3k.com]/user_account_delete.php",
+		"/C/xampp/htdocs/SocialNetworkingProject[Students3k.com]/SocialNetworkingProject -[www.students3k.com]/user_account.php",
+		"/C/xampp/htdocs/SocialNetworkingProject[Students3k.com]/SocialNetworkingProject -[www.students3k.com]/signup_verify.php",
+		"/C/xampp/htdocs/SocialNetworkingProject[Students3k.com]/SocialNetworkingProject -[www.students3k.com]/signup.php",
+		"/C/xampp/htdocs/SocialNetworkingProject[Students3k.com]/SocialNetworkingProject -[www.students3k.com]/search_advanced.php",
+		"/C/xampp/htdocs/SocialNetworkingProject[Students3k.com]/SocialNetworkingProject -[www.students3k.com]/search.php",
+		"/C/xampp/htdocs/SocialNetworkingProject[Students3k.com]/SocialNetworkingProject -[www.students3k.com]/profile_friends.php",
+		"/C/xampp/htdocs/SocialNetworkingProject[Students3k.com]/SocialNetworkingProject -[www.students3k.com]/profile_comments.php",
+		"/C/xampp/htdocs/SocialNetworkingProject[Students3k.com]/SocialNetworkingProject -[www.students3k.com]/profile.php",
+		"/C/xampp/htdocs/SocialNetworkingProject[Students3k.com]/SocialNetworkingProject -[www.students3k.com]/lostpass.php",
+		"/C/xampp/htdocs/SocialNetworkingProject[Students3k.com]/SocialNetworkingProject -[www.students3k.com]/login.php",
+		"/C/xampp/htdocs/SocialNetworkingProject[Students3k.com]/SocialNetworkingProject -[www.students3k.com]/invite.php",
+		"/C/xampp/htdocs/SocialNetworkingProject[Students3k.com]/SocialNetworkingProject -[www.students3k.com]/index.php",
+		"/C/xampp/htdocs/SocialNetworkingProject[Students3k.com]/SocialNetworkingProject -[www.students3k.com]/home.php",
+		"/C/xampp/htdocs/SocialNetworkingProject[Students3k.com]/SocialNetworkingProject -[www.students3k.com]/help_tos.php",
+		"/C/xampp/htdocs/SocialNetworkingProject[Students3k.com]/SocialNetworkingProject -[www.students3k.com]/help_contact.php",
+		"/C/xampp/htdocs/SocialNetworkingProject[Students3k.com]/SocialNetworkingProject -[www.students3k.com]/help.php",
+		"/C/xampp/htdocs/SocialNetworkingProject[Students3k.com]/SocialNetworkingProject -[www.students3k.com]/header_chat.php",
+		"/C/xampp/htdocs/SocialNetworkingProject[Students3k.com]/SocialNetworkingProject -[www.students3k.com]/header_blog.php",
+		"/C/xampp/htdocs/SocialNetworkingProject[Students3k.com]/SocialNetworkingProject -[www.students3k.com]/header_album.php",
+		"/C/xampp/htdocs/SocialNetworkingProject[Students3k.com]/SocialNetworkingProject -[www.students3k.com]/header.php",
+		"/C/xampp/htdocs/SocialNetworkingProject[Students3k.com]/SocialNetworkingProject -[www.students3k.com]/footer_chat.php",
+		"/C/xampp/htdocs/SocialNetworkingProject[Students3k.com]/SocialNetworkingProject -[www.students3k.com]/footer_blog.php",
+		"/C/xampp/htdocs/SocialNetworkingProject[Students3k.com]/SocialNetworkingProject -[www.students3k.com]/footer_album.php",
+		"/C/xampp/htdocs/SocialNetworkingProject[Students3k.com]/SocialNetworkingProject -[www.students3k.com]/footer.php",
+		"/C/xampp/htdocs/SocialNetworkingProject[Students3k.com]/SocialNetworkingProject -[www.students3k.com]/chat_frame.php",
+		"/C/xampp/htdocs/SocialNetworkingProject[Students3k.com]/SocialNetworkingProject -[www.students3k.com]/chat.php",
+		"/C/xampp/htdocs/SocialNetworkingProject[Students3k.com]/SocialNetworkingProject -[www.students3k.com]/blog_entry.php",
+		"/C/xampp/htdocs/SocialNetworkingProject[Students3k.com]/SocialNetworkingProject -[www.students3k.com]/blog_category.php",
+		"/C/xampp/htdocs/SocialNetworkingProject[Students3k.com]/SocialNetworkingProject -[www.students3k.com]/blog.php",
+		"/C/xampp/htdocs/SocialNetworkingProject[Students3k.com]/SocialNetworkingProject -[www.students3k.com]/albums.php",
+		"/C/xampp/htdocs/SocialNetworkingProject[Students3k.com]/SocialNetworkingProject -[www.students3k.com]/album_file.php",
+		"/C/xampp/htdocs/SocialNetworkingProject[Students3k.com]/SocialNetworkingProject -[www.students3k.com]/album.php",
+		"/C/xampp/htdocs/SocialNetworkingProject[Students3k.com]/SocialNetworkingProject -[www.students3k.com]/ad.php",
+		"/C/xampp/htdocs/SocialNetworkingProject[Students3k.com]/SocialNetworkingProject -[www.students3k.com]/action_delete.php",
+		"/C/xampp/htdocs/facebook/Forgot_Password_background.php",
+		"/C/Users/SHIAM/Downloads/Compressed/htdocs/portfolio/index.php"
+	],
+	"find":
+	{
+		"height": 31.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"hr",
+			"open_developer_details",
+			"php",
+			"Developer",
+			"my",
+			"modal",
+			"close",
+			"modal-content",
+			"img01",
+			"myModal",
+			"myImg",
+			"img",
+			"Id",
+			"a",
+			"li",
+			"scroll",
+			"right-col",
+			"style",
+			"rdType",
+			"adsbygoogle",
+			"con",
+			"hea",
+			"design",
+			"php",
+			"view",
+			"tenant",
+			"action",
+			"short",
+			"delete",
+			"view",
+			"row",
+			"log",
+			"copyright",
+			"all",
+			"hello",
+			"login",
+			"ipos",
+			"Width",
+			"err",
+			"submit",
+			"already",
+			"g-plus",
+			"pre",
+			"reset",
+			"more demos",
+			"home",
+			"modal",
+			"myModal1",
+			"carouselId",
+			"myModal7",
+			"content",
+			"your",
+			"next",
+			"function",
+			"Database",
+			"database"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 31.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 58.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 199.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
